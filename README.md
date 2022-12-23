@@ -2,13 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### This repository contains only files intended for changes. To use these files, use 'create-react-app' to create a new React app, then replace the files in this repo with the corrosponding default files that create-react-app will give you (or follow the steps outlined below).
+#### This repository contains only files intended for changes. To use these files, use [Create React App](https://github.com/facebook/create-react-app) to create a new React app, then replace the files in this repo with the corrosponding default files that create-react-app will give you (or follow the steps outlined below).
 
-## Install create-react-app:
+To get started with [Create React App](https://github.com/facebook/create-react-app), you will need to have Node.js and npm (Node Package Manager) installed on your computer.
+To install create-react-app, open a terminal window and run the following command:
 
-### `npm install -g create-react-app`
+#### `npm install -g create-react-app`
 
-##
+This will install the create-react-app command line tool globally on your machine.
+Once the installation is complete, you can create a new React app by running the following command:
+
+#### `create-react-app my-app`
 
 ## Available Scripts
 
