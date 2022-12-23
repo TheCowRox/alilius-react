@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### This repository contains only files intended for changes. To use these files, use create-react-app to create a new React app, then replace the files in this repo with the corrosponding default files that create-react-app will give you.
+
 ## Available Scripts
 
 In the project directory, you can run:
